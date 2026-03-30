@@ -63,11 +63,12 @@ If the components do not fit properly into the slots, it can be moved into the s
 ![image](https://user-images.githubusercontent.com/113594316/199413636-df0a61ce-964f-490d-9a16-e5986ebbf403.png)
 
 ## OUTPUT:
-<img width="324" height="674" alt="Screenshot 2026-03-28 132105" src="https://github.com/user-attachments/assets/cb7b113b-9ea7-4fae-8f36-5bd17117ba3d" />
-<img width="1055" height="618" alt="Screenshot 2026-03-28 132138" src="https://github.com/user-attachments/assets/9b39a397-5007-4e8c-b2a8-4d13a04ff755" />
-<img width="1017" height="578" alt="Screenshot 2026-03-28 132349" src="https://github.com/user-attachments/assets/89488dcc-493e-4fae-a1ab-4d0d229bc5ac" />
-<img width="719" height="587" alt="Screenshot 2026-03-28 132425" src="https://github.com/user-attachments/assets/71966bc1-64ed-467e-b34b-d0fbe49e7eec" />
-<img width="876" height="506" alt="Screenshot 2026-03-28 132635" src="https://github.com/user-attachments/assets/f15eb646-8a44-48f7-863e-63eb1c122200" />
+<img width="1030" height="726" alt="Screenshot 2026-03-30 143019" src="https://github.com/user-attachments/assets/61c4b91c-1f50-4174-98a7-8727aa3ceb64" />
+<img width="1023" height="734" alt="Screenshot 2026-03-30 143039" src="https://github.com/user-attachments/assets/705ceb97-140e-4aa0-805b-223403cefede" />
+<img width="1025" height="727" alt="Screenshot 2026-03-30 143103" src="https://github.com/user-attachments/assets/0785fa07-d57b-4bcd-9347-dd7d8ec240a9" />
+<img width="1025" height="730" alt="Screenshot 2026-03-30 143126" src="https://github.com/user-attachments/assets/ee1c6625-5c9e-4a14-84fd-f30195c4b2cf" />
+<img width="1022" height="726" alt="Screenshot 2026-03-30 141027" src="https://github.com/user-attachments/assets/092e5710-ae18-435e-b5f6-f99b7a1eb6c0" />
+
 
 ## RESULT:
 Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done
